@@ -16,9 +16,6 @@
 - [Visualization Gallery](#-visualization-gallery)
 - [Missing Data Strategy](#-missing-data-strategy)
 - [Output Files](#-output-files)
-- [Customization](#-customization)
-- [Best Practices](#-best-practices)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
